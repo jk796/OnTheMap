@@ -1,5 +1,5 @@
 # OnTheMap
-## Udacity.com ios Nanodegree project 2
+## Udacity.com ios Nanodegree project 3
 Swift Language Version: Swift 5<br/>
 Xcode Version: 11.3.1
 
